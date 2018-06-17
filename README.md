@@ -8,3 +8,5 @@ It is a collection of referents to PouchDB documents and resources
 1. https://www.redcometlabs.com/blog/2015/12/1/a-look-under-the-covers-of-pouchdb-find
 
 1. patch a plugin to make pouchdb-find work with allDocs: https://www.bennadel.com/blog/3256-monkey-patching-the-mango-find-plugin-to-use-alldocs-in-pouchdb-6-2-0.htm
+
+1. ionic pouchdb tutorial: https://github.com/ashteya/ionic-tutorial-pouchdb/tree/master/www/lib/pouchdb/docs/_guides
